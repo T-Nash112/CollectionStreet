@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "162677101349",
+    "firebase_url": "https://collection-street-default-rtdb.firebaseio.com",
+    "project_id": "collection-street",
+    "storage_bucket": "collection-street.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162677101349:android:914506ed8c7641ad5100cc",
+        "android_client_info": {
+          "package_name": "com.example.collectionstreet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162677101349-vgnn0jtvc2utqomebh6ph2s7q0ughhfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBimUtKSsofk7UNDxgeBlhR8qRZJVsHhyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162677101349-vgnn0jtvc2utqomebh6ph2s7q0ughhfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
